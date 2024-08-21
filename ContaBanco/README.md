@@ -1,18 +1,5 @@
-## Getting Started
+## Essa aplicação e referente ao desafio do Bootcamp Claro - Java com Spring Boot da Dio.
+Ola meu nome e Lucas Almeida e essa e a minha conclusão do desafio de projeto proposto pela dio no bootcamp da claro.
+ https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/controle-fluxo/README.md
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
